@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Juliette Groot
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+rood
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+responsive
  
 </details>
 
@@ -33,18 +33,17 @@ hier je focus (kies uit responsive óf surface plane)
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.deezer.com/nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/home.png" width="375px" alt="dit is homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/aanmelden.png" width="375px" alt="dit is aanmeld pagina">
  
 </details>
 
@@ -73,11 +72,9 @@ hier de naam van de pagina
 ## Voortgang 1 (week 2)
 
 <details open>
-<summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik vind het lastig om een start te maken en ik snap niet heel veel van flexbox.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
