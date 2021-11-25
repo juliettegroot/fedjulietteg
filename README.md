@@ -55,13 +55,13 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/homepage.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/menu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/aanmeld.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -79,11 +79,11 @@ Ik vind het lastig om een start te maken en ik snap niet heel veel van flexbox.
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Juliette       | Nigel              |Chun          | -                |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Ik vind het lastig om te starten  | en dit             | en ik dit    | en dan ik dat    |
+| Ik snap weinig van flexbox | dit als er tijd is | nog een punt | dit wil ik zeker |
+| -              | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
