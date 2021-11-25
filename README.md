@@ -79,11 +79,11 @@ Ik vind het lastig om een start te maken en ik snap niet heel veel van flexbox.
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Juliette       | Nigel              |Chun          | -                |
-| ---            | ---                | ---          | ---              |
-| Ik vind het lastig om te starten  | en dit             | en ik dit    | en dan ik dat    |
-| Ik snap weinig van flexbox | dit als er tijd is | nog een punt | dit wil ik zeker |
-| -              | ...                | ...          | ...              |
+| Juliette       | Nigel              |Chun         
+| ---            | ---                | ---          
+| Ik vind het lastig om te starten  | heeft ook een vraag over flexbox     | ?    | 
+| Ik snap weinig van flexbox | heeft een vraag over flexgrow |? | 
+| -              | heeft een vraag over wrap                | ?        | 
 
 
 ### Verslag van meeting
