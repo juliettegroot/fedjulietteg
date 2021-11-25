@@ -86,6 +86,7 @@ samen met je groepje opstellen
 | Ik vind het lastig om te starten  | heeft ook een vraag over flexbox     | ?    | 
 | Ik snap weinig van flexbox | heeft een vraag over flexgrow |? | 
 | Ik heb een vraag over fonts importeren   | heeft een vraag over wrap                | ?        | 
+| Ik snap niet heel goed hoe de var in css werkt (iets van --kleur...)  | 
 
 
 ### Verslag van meeting
