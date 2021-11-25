@@ -74,7 +74,9 @@ hier de naam van de pagina
 <details open>
 
 ### Stand van zaken
-Ik vind het lastig om een start te maken en ik snap niet heel veel van flexbox.
+Ik vind het lastig om een start te maken en weet dus ook niet zo goed waar en hoe ik moet starten. 
+Ik denk dat ik wel een beetje op gang kan komen als ik weet waar ik moet starten.
+Ik begrijp daarnaast ook niet heel veel van flexbox.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
