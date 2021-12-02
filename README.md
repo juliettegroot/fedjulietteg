@@ -111,13 +111,11 @@ Ik heb echt best wel veel gedaan in deze week. Meer dan in de voorgaande weken d
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Juliette      | Nigel         | Chun    | Chelsey?       |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Ik heb wel een vraag over een bepaalde button| - | -    | -   |
+| Ik heb niet echt een andere vraag | - | - | - |
 
 
 ### Verslag van meeting
@@ -183,10 +181,12 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Juliette      | Nigel         | Chun    | Chelsey?       |
+| student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| Ik heb wel een vraag over een bepaalde button| - | -    | -   |
-| Ik heb niet echt een andere vraag | - | - | - |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| ...            | ...                | ...          | ...              |
+
 
 
 ### Verslag van meeting
