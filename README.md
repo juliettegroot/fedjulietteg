@@ -84,18 +84,16 @@ samen met je groepje opstellen
 | Juliette       | Nigel              |Chun         
 | ---            | ---                | ---          
 | Ik vind het lastig om te starten  | heeft ook een vraag over flexbox     | ?    | 
-| Ik snap weinig van flexbox | heeft een vraag over flexgrow |? | 
+| Ik snap niet heel goed hoe de var in css werkt (iets van --kleur...) | heeft een vraag over flexgrow |? | 
 | Ik heb een vraag over fonts importeren   | heeft een vraag over wrap                | ?        | 
-| Ik snap niet heel goed hoe de var in css werkt (iets van --kleur...)  | 
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik merk wel dat ik een beetje achterloop, dus ik moet even een planning maken en hard aan de slag.
+- Ik zorg ervoor dat volgende week mijn eerste pagina zo goed als af is.
+- Ik zorg ervoor dat de html van mijn tweede pagina ook zo goed als af is.
 
 </details>
 
@@ -109,7 +107,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb echt best wel veel gedaan in deze week. Meer dan in de voorgaande weken dus dat is fijn. Daarnaast ben ik al bijna zover om te werken aan mijn tweede pagina.
 
 
 ### Agenda voor meeting
@@ -185,11 +183,10 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Juliette      | Nigel         | Chun    | Chelsey?       |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Ik heb wel een vraag over een bepaalde button| - | -    | -   |
+| Ik heb niet echt een andere vraag | - | - | - |
 
 
 ### Verslag van meeting
