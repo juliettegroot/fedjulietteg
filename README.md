@@ -39,11 +39,11 @@ https://www.deezer.com/nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/homepage.pdf" width="375px" alt="dit is homepage">
+<img src="images/homepage.png" width="375px" alt="dit is homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/aanmelden.pdf" width="375px" alt="dit is aanmeld pagina">
+<img src="images/aanmeld.png" width="375px" alt="dit is aanmeld pagina">
  
 </details>
 
@@ -79,7 +79,6 @@ Ik denk dat ik wel een beetje op gang kan komen als ik weet waar ik moet starten
 Ik begrijp daarnaast ook niet heel veel van flexbox.
 
 ### Agenda voor meeting
-samen met je groepje opstellen
 
 | Juliette       | Nigel              |Chun         
 | ---            | ---                | ---          
@@ -89,7 +88,6 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
 - Ik merk wel dat ik een beetje achterloop, dus ik moet even een planning maken en hard aan de slag.
 - Ik zorg ervoor dat volgende week mijn eerste pagina zo goed als af is.
@@ -112,10 +110,10 @@ Ik heb echt best wel veel gedaan in deze week. Meer dan in de voorgaande weken d
 
 ### Agenda voor meeting
 
-| Juliette      | Nigel         | Chun    | Chelsey?       |
-| ---            | ---                | ---          | ---              |
-| Ik heb wel een vraag over een bepaalde button| - | -    | -   |
-| Ik heb niet echt een andere vraag | - | - | - |
+| Juliette      | Nigel         | Chun    | Chelsey       |
+| ---           | ---           |  ---    | ---           |
+| Ik heb wel een vraag over een bepaalde button| kan je html aanpassen met javascript? | maakt het heel erg uit als een stukje niet heel semantisch werkt|  vraag over form en placeholder|
+| Ik heb niet echt een andere vraag | geen andere vraag | geen andere vragen | geen andere vraag |
 
 
 ### Verslag van meeting
