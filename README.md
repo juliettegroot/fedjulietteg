@@ -39,11 +39,11 @@ https://www.deezer.com/nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/homepage.png" width="375px" alt="dit is homepage">
+<img src="images/homepage.png" width="100px" alt="dit is homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/aanmeld.png" width="375px" alt="dit is aanmeld pagina">
+<img src="images/aanmeld.png" width="100px" alt="dit is aanmeld pagina">
  
 </details>
 

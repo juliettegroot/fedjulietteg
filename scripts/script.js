@@ -7,3 +7,6 @@ function toggleMenu(event) {
   deNav = event.target.parentNode;
   deNav.classList.toggle("toonMenu");
 }
+
+details vraag antwoord
+summary vraag
