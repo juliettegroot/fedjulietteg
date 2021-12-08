@@ -133,22 +133,25 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>Voor de les vandaag hebben we de toegankelijkheid van onze website getest. Ik merkte meteen toen ik voice over aanzette dat heel veel dingen anders werken, daarover hieronder meer.</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+screen reader
+- niet alle knoppen werken op dezelfde manier.
+- de stem van de voice over is heel irritant en kan alleen als man.
+- bepaalde woorden spreekt de voice over heel raar uit en dat wordt uiteindelijk best wel irritant.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Knoppen werken anders
+De knoppen van bijvoorbeeld de touchbar werken niet meer goed. Ik moest meerdere keer klikken toen ik het volume wilde aanpassen en het werkte dus heel irritant.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
+#### Screen reader stem 
+De stem van de screen reader is erg irritant en er is maar weinig variatie in stemmen en het zijn ook nog allemaal mannen stemmen. 
+<img src="images/screenreaderstem.png" width="150px" alt="screen reader stem menu">
 
 #### Titel volgende bevinding. 
 Hier korte omschrijving (met indien nodig een afbeelding)

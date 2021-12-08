@@ -8,5 +8,5 @@ function toggleMenu(event) {
   deNav.classList.toggle("toonMenu");
 }
 
-details vraag antwoord
-summary vraag
+//details vraag antwoord
+//summary vraag
