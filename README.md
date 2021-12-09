@@ -141,9 +141,15 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 screen reader
 - niet alle knoppen werken op dezelfde manier.
 - de stem van de voice over is heel irritant en kan alleen als man.
-- bepaalde woorden spreekt de voice over heel raar uit en dat wordt uiteindelijk best wel irritant.
 
+spasme simulator
+- alles is wel te gebruiken.
+- ze kon prima op alle knoppen klikken
 
+brillen
+- cursor vinden is lastig
+- voor de rest is het allemaal goed te vinden en te gebruiken.
+- de tekst is niet goed te lezen met de blur bril
 
 #### Knoppen werken anders
 De knoppen van bijvoorbeeld de touchbar werken niet meer goed. Ik moest meerdere keer klikken toen ik het volume wilde aanpassen en het werkte dus heel irritant.
@@ -152,6 +158,14 @@ De knoppen van bijvoorbeeld de touchbar werken niet meer goed. Ik moest meerdere
 #### Screen reader stem 
 De stem van de screen reader is erg irritant en er is maar weinig variatie in stemmen en het zijn ook nog allemaal mannen stemmen. 
 <img src="images/screenreaderstem.png" width="150px" alt="screen reader stem menu">
+
+
+#### spasme simulator 
+Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon op alle knoppen drukken en het lukte haar over het algemeen wel heel goed om de website te gebruiken.
+<video width="240" height="180" controls>
+  <source src="video/videospasme.mov" type="video/mov">
+</video>
+
 
 #### Titel volgende bevinding. 
 Hier korte omschrijving (met indien nodig een afbeelding)
@@ -176,17 +190,17 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Dit vak is al bijna afgelopen en ik heb wel nog veel te doen. Dus ik ben wel een beetje aan het stressen maar ik denk dat het wel goed komt uiteindelijk en dat ik alles af krijg voor de deadline.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Juliette      | Nigel          | Chun    | Chelsey       |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Ik heb best wel veel moeite met de breakpoints goed maken in mijn website het ziet er nu heel raar uit. | vraag over toetsenbord gebuiken op website en op dropdown menu | - | vraag over github |
+| vraag over FAQ en hoe ik ervoor kan zorgen dat het werkt | - | - | - |
+
 
 
 

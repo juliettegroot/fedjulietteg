@@ -10,6 +10,10 @@
   --font-primary: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+/***********************/
+/* Pagina 1: homepage */
+/*********************/
+
 body {
   color: white;
   font-family: var(--font-primary);
@@ -23,7 +27,7 @@ h2 {
 
 
 /******************/
-/*logo*/
+/* logo */
 header img{
   position: absolute;
   left: calc(50% - 1.7em);
@@ -48,7 +52,7 @@ nav button {
   z-index: 100;
 }
 
-/*hamburger*/
+/* hamburger */
 nav button::before {
   content: "\2630";
   display: inline-flex;
@@ -60,12 +64,12 @@ nav button::before {
   font-size: 2em;
 }
 
-/*rood kruisje*/
+/* rood kruisje */
 nav.toonMenu  button::before {
   content: "\274C";
 }
 
-/*deezer logo*/
+/* deezer logo */
 nav ul img {
 
   position: absolute;
@@ -74,7 +78,7 @@ nav ul img {
   width: 6em;
 }
 
-/*lijstje*/
+/* lijstje */
 nav ul { 
   margin: 0; 
   padding: 4em 0 0;
@@ -95,7 +99,7 @@ nav.toonMenu ul {
   transform: translatex(0);
 }
 
-/*linkje in lijst*/
+/* linkje in lijst */
 nav li {
   margin: 2em; 
   font-size: 20px;
@@ -112,8 +116,8 @@ nav li a {
   text-decoration: none;
 }
 
-/**********************************/
-/******section box 1 styling******/
+/************************************/
+/****** section box 1 styling ******/
 main section:first-of-type {
   margin: 1em;
   margin-top: 1em;
@@ -125,7 +129,7 @@ main section:first-of-type {
   border-radius: 1.5em; 
 }
 
-/*titel*/
+/* titel */
 main section:first-of-type article h3 {
   text-align: center;
   margin-top: -.5em;
@@ -133,7 +137,7 @@ main section:first-of-type article h3 {
   font-weight: bold;
 }
 
-/*tekstje*/
+/* tekstje */
 main section:first-of-type article p:first-of-type {
   font-size: 13px;
 
@@ -156,7 +160,7 @@ main section:first-of-type article p:nth-of-type(2) {
   text-align: center;
 }
 
-/*linkje*/
+/* linkje */
 main section:first-of-type a:nth-of-type(1) {
   position: absolute;
 
@@ -170,7 +174,7 @@ main section:first-of-type a:nth-of-type(1) {
 
 }
 
-/*button*/
+/* button */
 main section:first-of-type article a:nth-of-type(2) {
   border-radius: 4em;
   padding: 1em 5em 1em 5em;
@@ -195,8 +199,8 @@ main section:first-of-type article a:nth-of-type(2):hover {
 }
 
 
-/**********************************/
-/******section box 2 styling******/
+/************************************/
+/****** section box 2 styling ******/
 main section:nth-of-type(2) {
   margin: 1em;
   margin-bottom: 2em;
@@ -207,7 +211,7 @@ main section:nth-of-type(2) {
   border-radius: 1.5em; 
 }
 
-/*titel*/
+/* titel */
 main section:nth-of-type(2) article h3 {
   text-align: center;
   margin-top: -.5em;
@@ -215,7 +219,7 @@ main section:nth-of-type(2) article h3 {
   font-weight: bold;
 }
 
-/*tekstje*/
+/* tekstje */
 main section:nth-of-type(2) article p:first-of-type {
   font-size: 13px;
 
@@ -258,7 +262,7 @@ main section:nth-of-type(2) article p:nth-of-type(3) {
   text-align: center;
 }
 
-/*linkje*/
+/* linkje */
 main section:nth-of-type(2) a:nth-of-type(1) {
   position: absolute;
 
@@ -272,7 +276,7 @@ main section:nth-of-type(2) a:nth-of-type(1) {
 
 }
 
-/*button*/
+/* button */
 main section:nth-of-type(2) article a:nth-of-type(2) {
   border-radius: 4em;
   padding: 1em 7em 1em 7em;
@@ -296,22 +300,35 @@ main section:nth-of-type(2) article a:nth-of-type(2):hover {
 }
 
 
-/**********************/
-/****media queries****/
+/************************/
+/**** media queries ****/
+@media (min-width: 300px) {
+  main > section:nth-of-type(1) {
+    margin-left: 5em;
+    margin-right: 5em;
+  }
+
+  main > section:nth-of-type(2) {
+    margin-left: 5em;
+    margin-right: 5em;
+  }
+
+}
+
 @media (min-width: 480px) {
   main > section:nth-of-type(1) {
-    margin-left: 4em;
-    margin-right: 4em;
+    margin-left: 6em;
+    margin-right: 6em;
   }
 
   main > section:nth-of-type(2) {
-    margin-left: 4em;
-    margin-right: 4em;
+    margin-left: 6em;
+    margin-right: 6em;
   }
 
 }
 
-@media (min-width: 760px) {
+@media (min-width: 770px) {
   main > section:nth-of-type(1) {
     margin-left: 10em;
     margin-right: 10em;
@@ -324,22 +341,10 @@ main section:nth-of-type(2) article a:nth-of-type(2):hover {
 
 }
 
-@media (min-width: 1000px) {
-  main > section:nth-of-type(1) {
-    margin-left: 16em;
-    margin-right: 16em;
-  }
-
-  main > section:nth-of-type(2) {
-    margin-left: 16em;
-    margin-right: 16em;
-  }
-
-}
 
 
-/********************/
-/****FAQ stukje*****/
+/**********************/
+/**** FAQ stukje *****/
 section:nth-of-type(3) article img {
   width: 1.3em;
   position: absolute;
@@ -348,11 +353,23 @@ section:nth-of-type(3) article img {
 }
 
 
-/****************/
-/****footer*****/
+/******************/
+/**** footer *****/
 footer img {
   width: 8em;
   margin: 1.5em;
 }
 
+/*****************************/
+/* Einde pagina 1: homepage */
+/***************************/
 
+
+
+/**************************/
+/* Pagina 2: Aanmeldpage */
+/************************/
+
+.p2 main a img{
+  width: 5em;
+}
