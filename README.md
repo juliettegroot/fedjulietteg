@@ -167,16 +167,12 @@ Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon
 </video>
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Brillen: cursor is lastig te vinden 
+1 van de eerste dingen die Annick opmerkte was dat de cursor heel lastig te vinden was. Ik weet niet of daar iets aan te doen is maar het is wel belangrijk dat je de cursor kan zien.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Blur bril: tekst niet goed te lezen 
+Toen Annick de blur bril opzette merkte ze al gauw op dat (p)tekst niet goed te lezen is. Ik zou dat kunnen oplossen door de font-size aan te passen en te vergroten.
 
 </details>
 
@@ -198,8 +194,9 @@ samen met je groepje opstellen
 
 | Juliette      | Nigel          | Chun    | Chelsey       |
 | ---            | ---                | ---          | ---              |
-| Ik heb best wel veel moeite met de breakpoints goed maken in mijn website het ziet er nu heel raar uit. | vraag over toetsenbord gebuiken op website en op dropdown menu | - | vraag over github |
-| vraag over FAQ en hoe ik ervoor kan zorgen dat het werkt | - | - | - |
+| Ik heb best wel veel moeite met de breakpoints goed maken in mijn website het ziet er nu heel raar uit. | Vraag over toetsenbord gebuiken op website en op dropdown menu | - | Vraag over github |
+| Vraag over FAQ en hoe ik ervoor kan zorgen dat het werkt | - | - | - |
+| Hoe zet ik een video in github | - | - | - |
 
 
 
