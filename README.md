@@ -119,10 +119,10 @@ Ik heb echt best wel veel gedaan in deze week. Meer dan in de voorgaande weken d
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik heb best wel veel te doen dus ik moet wel even de eerste pagina af maken.
+- Ik moet de footer even afmaken.
+- Ik moet de sectie FAQ afmaken.
+- Start maken met tweede pagina.
 
 </details>
 
@@ -163,7 +163,7 @@ De stem van de screen reader is erg irritant en er is maar weinig variatie in st
 #### spasme simulator 
 Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon op alle knoppen drukken en het lukte haar over het algemeen wel heel goed om de website te gebruiken.
 <video width="240" height="180" controls>
-  <source src="video/videospasme.mov" type="video/mov">
+  <source src="videos/videospasme.mov" type="video/mov">
 </video>
 
 
@@ -195,7 +195,7 @@ samen met je groepje opstellen
 | Juliette      | Nigel          | Chun    | Chelsey       |
 | ---            | ---                | ---          | ---              |
 | Ik heb best wel veel moeite met de breakpoints goed maken in mijn website het ziet er nu heel raar uit. | Vraag over toetsenbord gebuiken op website en op dropdown menu | - | Vraag over github |
-| Vraag over FAQ en hoe ik ervoor kan zorgen dat het werkt | - | - | - |
+| Vraag over FAQ hoe zorg ik ervoor dat ik de > knop kan verplaatsen | - | - | - |
 | Hoe zet ik een video in github | - | - | - |
 
 
