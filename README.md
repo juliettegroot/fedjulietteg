@@ -157,7 +157,7 @@ De knoppen van bijvoorbeeld de touchbar werken niet meer goed. Ik moest meerdere
 
 #### Screen reader stem 
 De stem van de screen reader is erg irritant en er is maar weinig variatie in stemmen en het zijn ook nog allemaal mannen stemmen. 
-<img src="images/screenreaderstem.png" width="200px" alt="screen reader stem menu">
+<img src="images/screenreaderstem.png" width="200px" alt="screen reader stem menu"> Klik op de foto om de video te bekijken. :)
 
 
 #### spasme simulator 
