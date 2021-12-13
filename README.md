@@ -224,7 +224,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
  - De form die ik in mijn hoofd had was toch een stuk lastiger te maken dan ik dacht. Ik wilde hem helemaal responsive maken dat als je niet alles invulde dat je dan niet kon klikken bijvoorbeeld. Maar heb het opgezogd en niks gevonden jammer genoeg wat bruikbaar was. In het plaatje kan je een stukje van mijn code zien die ik gebruikt heb om de form te maken
 
-<img src="images/.responsivecode.png" width="200px" alt="dit is een stukje code">
+<img src="images/responsivecode.png" width="200px" alt="dit is een stukje code">
 
  - Ik vond het ook heel lastig om erachter te komen hoe de breakpoints en media query werkten. Uiteindelijk heb ik het met hulp anders gedaan. Dus het is me wel gelukt uiteindelijk. In het plaatje zie je wat voor code ik gebruikt heb om mijn probleem deels op te lossen.
 
