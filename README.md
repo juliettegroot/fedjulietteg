@@ -157,12 +157,12 @@ De knoppen van bijvoorbeeld de touchbar werken niet meer goed. Ik moest meerdere
 
 #### Screen reader stem 
 De stem van de screen reader is erg irritant en er is maar weinig variatie in stemmen en het zijn ook nog allemaal mannen stemmen. 
-<img src="images/screenreaderstem.png" width="150px" alt="screen reader stem menu">
+<img src="images/screenreaderstem.png" width="200px" alt="screen reader stem menu">
 
 
 #### spasme simulator 
 Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon op alle knoppen drukken en het lukte haar over het algemeen wel heel goed om de website te gebruiken.
-<a href="https://youtu.be/gTlao8LHYr8"><img src="images/fotoyoutube.png" width="50" height="100"/></a>
+<a href="https://youtu.be/gTlao8LHYr8"><img src="images/fotoyoutube.png" width="100" height="150"/></a>
 
 
 #### Brillen: cursor is lastig te vinden 
