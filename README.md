@@ -239,7 +239,7 @@ hier screenshot(s) van mijn eindresultaat
 <img src="images/plaatje1.png" width="200px" alt="dscreenshot van me website">
 <img src="images/plaatje2.png" width="200px" alt="screenshot van me website">
 <img src="images/plaatje3.png" width="200px" alt="screenshot van me website">
-<img src="images/plaatje4.png" width="200px" alt="screenshot van me website">
+<img src="images/form.png" width="200px" alt="screenshot van me website">
 <img src="images/plaatje5.png" width="200px" alt="screenshot van me website">
 </details>
 
