@@ -255,7 +255,5 @@ hier screenshot(s) van mijn eindresultaat
 1. Bron 1: deezer logo - https://logos-world.net/deezer-logo/ 
 2. Bron 2: pijl icoon - https://commons.wikimedia.org/wiki/File:White_arrow_down.svg
 3. Bron 3: facebook icon - https://www.kloeckner.nl/start/facebook-round-logo-png-transparent-background-12-891/ 
-4. Bron 4: google icon - https://icon-icons.com/nl/pictogram/google/66793
-5. Bron 5: 
 
 </details>

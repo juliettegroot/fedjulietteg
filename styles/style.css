@@ -82,7 +82,6 @@ nav {
 h2 {
   font-family: var(--font-bold);
   text-align: center;
-  word-wrap: break-word;
   margin: 0.5em;
   margin-top: -1.5em;
   padding: 1.5em;
