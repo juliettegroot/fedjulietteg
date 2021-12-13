@@ -33,26 +33,56 @@
       <h2>
         Klaar om je aan te melden?
       </h2>
-      <p>Heb je al een Deezer account? <a href="#">INLOGGEN</a></p>
+      <p class="zinnetje">Heb je al een Deezer account? <span>INLOGGEN</span></p>
       <a href="#"><img src="images/facebooklogo.png" alt="dit is een facebook logo"> FACEBOOK</a>
-      <a href="#"><img src="images/googlelogo.svg" alt="dit is een facebook logo"> GOOGLE</a>
     </main>
+
+    <form action="index.html">
+  
+      <label for="mail">E-mailadres</label> 
+      <input type="email" name="mail" id="mail"> 
+      
+      <label for="gebruikersnaam">Gebruikersnaam</label> 
+      <input type="text" name="gebruikersnaam" id="gebruikersnaam">
+      
+      <label for="wachtwoord">Wachtwoord</label> 
+      <input type="password" name="ww" id="ww"> 
+      <label for="ww">Min. 8 karakters</label>
+
+      <label for="leeftijd">Leeftijd</label> 
+      <input type="text" name="leeftijd" id="leeftijd"> 
+
+      <label for="identiteit">Identiteit</label> 
+      <select>
+        <option value="identiteit">Identiteit</option>
+        <option value="Vrouw">Vrouw</option>
+        <option value="Man">Man</option>
+        <option value="Non-binair">Non-binair</option>
+      </select>
+
+      <input type="submit" name="aanmeld" id="aanmeld" value="AANMELDEN">
+      
+    </form>   
+
   </body>
+
+  <hr>
 
   <footer>
     <h4>Deezer</h4>
+
     <ul>
-      <li>Abonnementen</li> 
-      <li>Functies</li> 
+      <li><a href="#"> Abonnementen</a></li>
+      <li><a href="#"> Functies</a></li>
     </ul>
     <h4>Ontdekken</h4>
     <ul>
-      <li>Alle kanalen</li> 
-      <li>Charts</li> 
+      <li><a href="#"> Alle kanalen</a></li>
+      <li><a href="#"> Charts</a></li>
     </ul>
 
     <img src="images/deezerlogo.png" alt="" />
-    @ 2021 Deezer
+    <p>@ 2021 Deezer</p>
   </footer>
 
   <script src="scripts/script.js"></script>

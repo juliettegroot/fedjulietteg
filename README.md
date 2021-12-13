@@ -38,11 +38,11 @@ responsive
 https://www.deezer.com/nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+homepagina 
 <img src="images/homepage.png" width="100px" alt="dit is homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+aanmeldpagina 
 <img src="images/aanmeld.png" width="100px" alt="dit is aanmeld pagina">
  
 </details>
@@ -162,9 +162,7 @@ De stem van de screen reader is erg irritant en er is maar weinig variatie in st
 
 #### spasme simulator 
 Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon op alle knoppen drukken en het lukte haar over het algemeen wel heel goed om de website te gebruiken.
-<video width="240" height="180" controls>
-  <source src="videos/videospasme.mov" type="video/mov">
-</video>
+<a href="https://youtu.be/gTlao8LHYr8">
 
 
 #### Brillen: cursor is lastig te vinden 
