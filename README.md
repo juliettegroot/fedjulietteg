@@ -202,10 +202,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Dit was wel de meest waardevolle meeting tot nu toe. Ik had veel vragen en de meesten zijn beantwoord wat heel fijn is.
+- Belangrijkste is wel om nu het allemaal toch nog even goed af te maken. Ik moet nog een aantal dingen doen maar mijn eerste scherm is zo goed als af en ik moet nog beginnen aan mijn tweede scherm.
+- belangrijk om even als in het midden te zetten met minwidth(85%, 400px) of zo iets zodat het responsive word op alle soorten en maten schermen.
 
 </details>
 
@@ -219,12 +218,29 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Alle onderdelen deze laatste 4 weken gingen eigenlijk best wel goed. Het enige waar ik een beetje tegen aan liep was opstarten. Ik wist echt totaal niet waar ik moest starten en hoe. Toen uiteindelijk had ik wel een wat beter gevoel gelukkig van waar ik moest starten en de rest liep eigenlijk vanzelf wel een beetje. 
+
+ Het was fijn dat ik met mijn vragen ergens terecht kon. Vooral de meetings op donderdag waren erg handig daarvoor. 
+
+ - De form die ik in mijn hoofd had was toch een stuk lastiger te maken dan ik dacht. Ik wilde hem helemaal responsive maken dat als je niet alles invulde dat je dan niet kon klikken bijvoorbeeld. Maar heb het opgezogd en niks gevonden jammer genoeg wat bruikbaar was. In het plaatje kan je een stukje van mijn code zien die ik gebruikt heb om de form te maken
+
+<img src="images/.responsivecode.png" width="200px" alt="dit is een stukje code">
+
+ - Ik vond het ook heel lastig om erachter te komen hoe de breakpoints en media query werkten. Uiteindelijk heb ik het met hulp anders gedaan. Dus het is me wel gelukt uiteindelijk. In het plaatje zie je wat voor code ik gebruikt heb om mijn probleem deels op te lossen.
+
+<img src="images/formcode.png" width="200px" alt="dit is een stukje code">
+
+
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+hier screenshot(s) van mijn eindresultaat
 
+<img src="images/plaatje1.png" width="200px" alt="dscreenshot van me website">
+<img src="images/plaatje2.png" width="200px" alt="screenshot van me website">
+<img src="images/plaatje3.png" width="200px" alt="screenshot van me website">
+<img src="images/plaatje4.png" width="200px" alt="screenshot van me website">
+<img src="images/plaatje5.png" width="200px" alt="screenshot van me website">
 </details>
 
 
