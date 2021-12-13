@@ -162,7 +162,7 @@ De stem van de screen reader is erg irritant en er is maar weinig variatie in st
 
 #### spasme simulator 
 Annick heeft voor mij mijn website uitgeprobeerd met de spasme simulator. Ze kon op alle knoppen drukken en het lukte haar over het algemeen wel heel goed om de website te gebruiken.
-<a href="https://youtu.be/gTlao8LHYr8"><img src="images/fotoyoutube.pngs" /></a>
+<a href="https://youtu.be/gTlao8LHYr8"><img src="images/fotoyoutube.png" /></a>
 
 
 #### Brillen: cursor is lastig te vinden 
