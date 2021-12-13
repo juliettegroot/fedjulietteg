@@ -255,5 +255,6 @@ hier screenshot(s) van mijn eindresultaat
 1. Bron 1: deezer logo - https://logos-world.net/deezer-logo/ 
 2. Bron 2: pijl icoon - https://commons.wikimedia.org/wiki/File:White_arrow_down.svg
 3. Bron 3: facebook icon - https://www.kloeckner.nl/start/facebook-round-logo-png-transparent-background-12-891/ 
+4. Bron 4: hamburger menu(1 van de opdrachten van sanne) - https://codepen.io/shooft/pen/dyRVVRr
 
 </details>

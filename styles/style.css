@@ -265,6 +265,15 @@ main section:first-of-type article a:nth-of-type(2):hover {
   color: black;
 }
 
+main section:first-of-type article a:nth-of-type(2):active {
+  background-color: var(--button-color);
+  color: whitesmoke;
+}
+
+main section:first-of-type article a:nth-of-type(2):focus {
+  border: var(--button-oncorrect-color);
+}
+
 /************************************/
 /****** section box 2 styling ******/
 main section:nth-of-type(2) {
