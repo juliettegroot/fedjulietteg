@@ -422,14 +422,14 @@ footer {
 footer h4:nth-of-type(1) {
   margin-left: 1.5em;
   position: absolute;
-  left: calc(50% - 11em);
+  left: calc(50% - 10.5em);
   bottom: -1em;
 }
 
 footer h4:nth-of-type(2) {
   margin-left: 1.5em;
   position: absolute;
-  left: calc(50% - 11em);
+  left: calc(50% - 10.5em);
   bottom: -6em;
 }
 
@@ -437,14 +437,14 @@ footer h4:nth-of-type(2) {
 footer ul:nth-of-type(1) {
   list-style: none;
   position: absolute;
-  left: calc(50% - 11em);
+  left: calc(50% - 10.5em);
   bottom: -3em;
 }
 
 footer ul:nth-of-type(2) {
   list-style: none;
   position: absolute;
-  left: calc(50% - 11em);
+  left: calc(50% - 10.5em);
   bottom: -8em;
 }
 
